@@ -1,0 +1,19 @@
+What's your requirement? 1.DNS 2.QUERY 3.QUIT : Input student ID : Email get from server : enzo@gapp.nthu.edu.tw
+
+What's your requirement? 1.DNS 2.QUERY 3.QUIT : Input student ID : Email get from server : student0805@gmail.com
+
+What's your requirement? 1.DNS 2.QUERY 3.QUIT : Input student ID : Email get from server : jc99654399@gmail.com
+
+What's your requirement? 1.DNS 2.QUERY 3.QUIT : Input URL address : address get from domain name : 172.217.163.36
+
+What's your requirement? 1.DNS 2.QUERY 3.QUIT : Input URL address : address get from domain name : 140.114.69.135
+
+What's your requirement? 1.DNS 2.QUERY 3.QUIT : Input URL address : address get from domain name : No such URL address
+
+What's your requirement? 1.DNS 2.QUERY 3.QUIT : Input URL address : address get from domain name : 172.217.163.46
+
+What's your requirement? 1.DNS 2.QUERY 3.QUIT : Input student ID : Email get from server : No such student ID
+
+What's your requirement? 1.DNS 2.QUERY 3.QUIT : Input student ID : Email get from server : eric2000830@gmail.com
+
+What's your requirement? 1.DNS 2.QUERY 3.QUIT : 
